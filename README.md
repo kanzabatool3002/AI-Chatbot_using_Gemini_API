@@ -1,6 +1,6 @@
 # AI-Chatbot_using_Gemini_API# AI Chatbot with Tkinter
 
-🚀 **AI Chatbot - A Simple Text-to-Text Chatbot Using Tkinter** 🤖
+**A Simple Text-to-Text Chatbot Using Tkinter** 🤖
 
 This is a **Python-based text-to-text AI chatbot** with a graphical user interface (GUI) built using **Tkinter**. The chatbot provides quick AI-generated responses, making interactions seamless and engaging.
 
@@ -15,8 +15,8 @@ This is a **Python-based text-to-text AI chatbot** with a graphical user interfa
 
 1. **Clone the Repository:**  
    ```sh
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/kanzabatool3002/AI-Chatbot_using_Gemini_API.git
+   cd AI-Chatbot_using_Gemini_API
    ```
 
 2. **Install Dependencies:**  
