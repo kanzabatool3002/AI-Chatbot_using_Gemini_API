@@ -3,7 +3,7 @@ import google.generativeai as genai
 import tkinter as tk 
 from tkinter import scrolledtext, PhotoImage
 
-GENAI_API_KEY = "AIzaSyCwpqaojb7QVjHHidz-LMtutHN-sFnSJ2Y"
+GENAI_API_KEY = "Your API Key"
 genai.configure(api_key=GENAI_API_KEY)
 
 def generate_response(query):
